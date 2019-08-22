@@ -1,5 +1,4 @@
 package com.metacortex.api.entidades;
-
 public class RapidApiPrecio {
     private boolean success;
     private String source;
